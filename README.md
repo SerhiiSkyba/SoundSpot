@@ -17,14 +17,18 @@ Oraz zainstalować wszystkie ściągi z pliku Fonts.
 
 Co do opisu programu, to wszystko to jest opisane w sorce kodzie pliku Main.py.
 
-Co do rozszerzeń python oraz info pro nich, to tutaj zostały umieścione linki z dokumentacją o nich:
+Co do dodatkowej informacji pro rozszerzenia to:
 
-Customtkinter - https://customtkinter.tomschimansky.com/
+# Kredyty
 
-Pygame - https://www.pygame.org/docs/
+Dziękuje bardzo wszystkim, kto uczestniczył w projekcie!
 
-Mutagen - https://mutagen.readthedocs.io/en/latest/index.html
+Artem Kuzniecow - Prezentacja
 
-Comtypes - https://github.com/enthought/comtypes
+Igor Kowalski - Główny programista
 
-Pycaw - https://pycaw.readthedocs.io/en/latest/#
+Władysław Prykhodko - App Designer
+
+Władysław Stoliar - Prezentacja oraz ikona aplikacji
+
+Serhii Skyba - Przynoszenie prototypu wyglądu aplikacji w kod
