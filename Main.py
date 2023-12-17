@@ -198,7 +198,6 @@ def ThemeChange():
         HomeLabel.configure(fg_color="#DEE1E1")
         LogoLabel.configure(fg_color="#DEE1E1")
         VolumeIcon.configure(fg_color="#DEE1E1")
-        btn.configure(fg_color="#FFFFFF", text_color="#000000")
         Volume.configure(button_color="#000000")
     elif (BgMode == "light"):
         BgMode = "dark"
@@ -220,7 +219,6 @@ def ThemeChange():
         HomeLabel.configure(fg_color="#211E1E")
         LogoLabel.configure(fg_color="#211E1E")
         VolumeIcon.configure(fg_color="#211E1E")
-        btn.configure(fg_color="#686464",text_color="#FFFFFF")
         Volume.configure(button_color = "#D9D9D9")
         
 
