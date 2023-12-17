@@ -6,6 +6,7 @@ from tkinter import *
 import customtkinter as ctk
 import glob,os,pygame,datetime
 from mutagen.mp3 import MP3
+import random
 
 # For controlling volume
 from ctypes import cast, POINTER
@@ -274,7 +275,7 @@ NowPlayingLabel = ctk.CTkButton(window,
 
 for p in range(0,nr_ofFiles+1): # Generating music buttons
     btn = ctk.CTkButton(PlaylistFrame,
-    	image = ListImage[p],
+    	image = ListImage[random.randint(0,len(ListImage)-1)],
     	text = files[p],
     	width = 709,
     	anchor = "w",
