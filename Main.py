@@ -7,7 +7,6 @@ import customtkinter as ctk
 import glob,os,pygame,datetime
 from mutagen.mp3 import MP3
 import random
-
 # For controlling volume
 from ctypes import cast, POINTER
 from comtypes import CLSCTX_ALL
