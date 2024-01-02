@@ -1,6 +1,6 @@
 # SoundSpot
 
-SoundSpot - to jest darmowe oprogramowanie do przegrywania mp3 plików. Tutaj jest pokazany jego source code.
+SoundSpot - to jest darmowe oprogramowanie do odgrywania plików mp3. Tutaj jest pokazany jego source code.
 
 # Instalacja
 
@@ -18,6 +18,8 @@ Oraz zainstalować wszystkie ściągi z pliku Fonts.
 Co do opisu programu, to wszystko to jest opisane w sorce kodzie pliku Main.py.
 
 Co do dodatkowej informacji pro rozszerzenia to:
+
+CustomTkinter: https://customtkinter.tomschimansky.com/documentation/
 
 # Kredyty
 
