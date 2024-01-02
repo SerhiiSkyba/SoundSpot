@@ -21,6 +21,14 @@ Co do dodatkowej informacji pro rozszerzenia to:
 
 CustomTkinter: https://customtkinter.tomschimansky.com/documentation/
 
+Pygame: https://www.pygame.org/docs/
+
+Mutagen: https://mutagen.readthedocs.io/en/latest/
+
+Comtypes: https://pythonhosted.org/comtypes/
+
+Pycaw: https://pycaw.readthedocs.io/en/latest/
+
 # Kredyty
 
 Dziękuje bardzo wszystkim, kto uczestniczył w projekcie!
